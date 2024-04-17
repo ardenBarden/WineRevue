@@ -9,4 +9,6 @@ The [Brazosport Area Chamber of Commerce](https://brazosport.org/) website has a
 This program uses the Maven Wizard in Eclipse to build a simple template and implement a dependency on Jsoup, a Java web-scraper package.
 This [link](https://www.vogella.com/tutorials/EclipseMaven/article.html) was helpful to set Maven up. Then, I imported the Jsoup classes, nodes, and packages that I think I'll need. 
 
+I was able to parse the html and transfer relevant information into results.csv, attached here. I gathered the owner names, street addresses, and towns of each business, storing null values where none were listed. 
+
 
