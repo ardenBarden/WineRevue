@@ -11,4 +11,4 @@ This [link](https://www.vogella.com/tutorials/EclipseMaven/article.html) was hel
 
 I was able to parse the html and transfer relevant information into results.csv, attached here. I gathered the owner names, street addresses, and towns of each business, storing null values where none were listed. 
 
-
+I now plan to transition to a new phase of my project: I need to find some method of gauging the spacial relevance of these addresses, and select the ones within a five mile radius. I know certain databases come with geospacial packages-- MongoDB has one I believe, from the research I've conducted. Either way, I'll need to compare them to Wine Revue's address, 219 Parking Way, Lake Jackson, TX 77566, and store information about the distance between them. Would it be possible to automate a system of typing these addresses in to google maps? 
