@@ -1,4 +1,5 @@
 # WineRevue
+NOTE: All information in this repo is publicly available data on various registered businesses in Southeast Texas. I originally made this repository private as I developed my solution, but am now publicizing my work to offer up help to people potentially facing similar problems. This is my documentation of a personal project which creates a real solution to a hypothetical problem on behalf of a local business. 
 
 ## Problem
 Wine Revue, a small local cafe and wine bar in Lake Jackson, Texas, wants to expand their services to B2B catering and delivery. They don't want to pile too much on their plate, though (lol!)-- they want to start by sending an advertisement to all local businesses within a 5-mile radius of their venue. 
